@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>498067939552-ss42vlukngqmj9t13ugpg1c92t43nrdi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.498067939552-ss42vlukngqmj9t13ugpg1c92t43nrdi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>498067939552-t1nisde09ra09bgru407krcvk9ck7uo2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCoQsMc8VVWZZr8GDuFCvbQR2WGsHKUy9E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>498067939552</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.suprodip.frieden</string>
+	<key>PROJECT_ID</key>
+	<string>frieden-6cc79</string>
+	<key>STORAGE_BUCKET</key>
+	<string>frieden-6cc79.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:498067939552:ios:206d75fe6b3b6664797085</string>
+	<key>DATABASE_URL</key>
+	<string>https://frieden-6cc79-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

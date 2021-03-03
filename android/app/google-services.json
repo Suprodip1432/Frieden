@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498067939552",
+    "firebase_url": "https://frieden-6cc79-default-rtdb.firebaseio.com",
+    "project_id": "frieden-6cc79",
+    "storage_bucket": "frieden-6cc79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498067939552:android:9d3803f82b3381fa797085",
+        "android_client_info": {
+          "package_name": "com.suprodip.frieden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498067939552-pmkkd0tmi6a1ngmsf8lfo1h4rq2nltlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZgeOBDJKpyNbr9pXxQBlc3t5FtpRGX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498067939552-pmkkd0tmi6a1ngmsf8lfo1h4rq2nltlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
